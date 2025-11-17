@@ -1,2 +1,1 @@
-test
-test-vsc
+Smart Security Lab @ TU Berlin
